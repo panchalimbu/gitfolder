@@ -15,14 +15,6 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 91,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "",
@@ -57,6 +49,8 @@
 	},
 	"file_history":
 	[
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-init.html",
+		"/C/Users/lonel/Desktop/gitfolder/index.html"
 	],
 	"find":
 	{
@@ -120,34 +114,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 91,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								91,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
